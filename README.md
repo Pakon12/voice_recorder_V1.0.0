@@ -140,7 +140,7 @@ python -m voice_recorder.tests
 
 ## 📧 ติดต่อ
 
-- อีเมล: your.pkorn8394@example.com
+- อีเมล: pkorn8394@gmail.com
 - เว็บไซต์: https://https://portfolio-pakorn.vercel.app/
 - GitHub: https://github.com/Pakon12
 ## 🙏 ขอขอบคุณ
