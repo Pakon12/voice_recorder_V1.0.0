@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi-publish
-      url: https://pypi.org/p/voice-recorder  # แก้ไขชื่อโปรเจคตามที่ลงทะเบียนใน PyPI
+      url: https://pypi.org/p/voice_recorder_V1.0.0 # แก้ไขชื่อโปรเจคตามที่ลงทะเบียนใน PyPI
 
     permissions:
       id-token: write  # สำหรับ OIDC
