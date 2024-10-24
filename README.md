@@ -140,10 +140,9 @@ python -m voice_recorder.tests
 
 ## 📧 ติดต่อ
 
-- อีเมล: your.email@example.com
-- เว็บไซต์: https://yourwebsite.com
-- GitHub: https://github.com/yourusername
-
+- อีเมล: your.pkorn8394@example.com
+- เว็บไซต์: https://https://portfolio-pakorn.vercel.app/
+- GitHub: https://github.com/Pakon12
 ## 🙏 ขอขอบคุณ
 
 - PyAudio สำหรับการบันทึกเสียง
